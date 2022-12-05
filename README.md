@@ -1,4 +1,4 @@
-# ConvNet-CIFAR10
+# Objects-Recognitions-using-Neural-Networks-CIFAR10-Dataset
 
 Creation of a neural network capable of recognizing objects in an image. Trained with the CIFAR 10 dataset.
 The code is written in Python and use the Keras and Tensorflow frameworks.
